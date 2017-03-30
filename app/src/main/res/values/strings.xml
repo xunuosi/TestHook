@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestHOOK</string>
+    <string name="text_content">我们首先要知道剪切板服务怎么创建的，要知道他创建过程，我们才能拿到这个服务对象并
+        代理他，我们知道所有的服务对象都是代理对象，他们都被一个叫ServiceManager的类管理，我们来看一下，平时我们使用
+        系统服务都是通过</string>
+</resources>
